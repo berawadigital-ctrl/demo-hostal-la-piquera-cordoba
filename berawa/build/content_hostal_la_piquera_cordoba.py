@@ -58,7 +58,7 @@ FOOT={'es':'Esta página es una propuesta de diseño hecha por Berawa sin encarg
 'fr':"Cette page est une proposition de design réalisée par Berawa sans commande de l'établissement. Textes basés sur son site public ; les images sont des illustrations propres et ne montrent pas l'établissement."}
 RES_ES='https://www.lapiquerahostal.com/book-a-room'; RES_EN='https://en.lapiquerahostal.com/book-a-room'
 BOOK=dict(mode='engine',url={'es':RES_ES,'ca':RES_ES,'en':RES_EN,'fr':RES_EN})
-D=dict(name='La Piquera Hostal',ac='#5b6b2e',ac2='#b55f34',ac2_a11y='#8a4a1e',book=BOOK,around=[],foot=FOOT,
+D=dict(name='La Piquera Hostal',ac='#4a5724',ac2='#b55f34',ac2_a11y='#8a4a1e',book=BOOK,around=[],foot=FOOT,
  address='Calle Corregidor Luis de la Cerda, 68 · 14003 Córdoba',phones=['+34 744 63 45 98'],emails=['info@lapiquerahostal.com'],maps='La Piquera Hostal, Calle Corregidor Luis de la Cerda 68, Córdoba',t=T)
 META=dict(repo='demo-hostal-la-piquera-cordoba',name='La Piquera Hostal',legal_name='La Piquera Hostal ESPJ',registry_ids=['CIF E56134331','Registro de Turismo de Andalucía H/CO/00696'],
  url='https://www.lapiquerahostal.com/',domain='lapiquerahostal.com',municipality='Córdoba',province='Córdoba',sector='hostal con encanto frente a la Mezquita-Catedral de Córdoba',

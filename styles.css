@@ -1,6 +1,6 @@
 
 @font-face{font-family:Cormorant;src:url(fonts/cormorant.woff2) format('woff2');font-weight:300 700;font-display:swap}
-:root{--ac:#5b6b2e;--ac2:#8a4a1e;--ink:#1f1d1a;--mut:#6b655d;--bg:#fbf8f3;--card:#fff;--line:#e8e1d6}
+:root{--ac:#4a5724;--ac2:#8a4a1e;--ink:#1f1d1a;--mut:#6b655d;--bg:#fbf8f3;--card:#fff;--line:#e8e1d6}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--ink);background:var(--bg)}
 img{max-width:100%;display:block}a{color:var(--ac)}
 h1,h2,h3{font-family:Cormorant,Georgia,serif;font-weight:600;line-height:1.1;margin:0 0 .5em}
