@@ -1,0 +1,29 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.lapiquerahostal.com/",
+ "read_at": "2026-10-29T11:12:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://en.lapiquerahostal.com/",
+   "sha256": "0fb99fa2db8325cd4fbebaa40bfd0abc6c6532c1b3342e7cfd3431b710a5d3de",
+   "chars": 4573
+  },
+  {
+   "url": "https://www.lapiquerahostal.com/",
+   "sha256": "cea2ff0eb623aaa5753113fc4502b7880ae024888001ee0adabe6874f1e4f24a",
+   "chars": 4525
+  },
+  {
+   "url": "https://www.lapiquerahostal.com/aviso-legal",
+   "sha256": "c99001dae8af785b000609aedce8c21241cd6fd996be73903304a7ff744bd79e",
+   "chars": 20290
+  }
+ ],
+ "other_pages_read": [
+  "https://www.lapiquerahostal.com",
+  "https://www.lapiquerahostal.com/book-a-room",
+  "https://www.lapiquerahostal.com/plan-de-actuacion",
+  "https://www.lapiquerahostal.com/politica-de-cookies"
+ ]
+}
