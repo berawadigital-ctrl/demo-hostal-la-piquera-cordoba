@@ -1,0 +1,69 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-la-piquera-cordoba",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T11:11:00+01:00",
+ "updated_at": "2026-10-29T11:20:00+01:00",
+ "business": {
+  "name": "La Piquera Hostal",
+  "legal_name": "La Piquera Hostal ESPJ",
+  "registry_ids": [
+   "CIF E56134331",
+   "Registro de Turismo de Andalucía H/CO/00696"
+  ],
+  "url": "https://www.lapiquerahostal.com/",
+  "domain": "lapiquerahostal.com",
+  "municipality": "Córdoba",
+  "province": "Córdoba",
+  "address": "Calle Corregidor Luis de la Cerda, 68 · 14003 Córdoba",
+  "phones": [
+   "+34 744 63 45 98"
+  ],
+  "emails": [
+   "info@lapiquerahostal.com"
+  ],
+  "sector": "hostal con encanto frente a la Mezquita-Catedral de Córdoba"
+ },
+ "rating": {
+  "value": 4.6,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/La+Piquera+Hostal/@37.8787116,-4.7783225,17z/data=!4m9!3m8!1s0xd6d21983cc8acef:0xa03a87ad48f72fbd!5m2!4m1!1i2!8m2!3d37.8787116!4d-4.7783225!16s%2Fg%2F11jmbm772h",
+  "date": "2026-10-29T10:36:55+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://www.lapiquerahostal.com/book-a-room",
+   "ca": "https://www.lapiquerahostal.com/book-a-room",
+   "en": "https://en.lapiquerahostal.com/book-a-room",
+   "fr": "https://en.lapiquerahostal.com/book-a-room"
+  },
+  "note": "Las reservas van a la pagina de reservas real del hostal (lapiquerahostal.com/book-a-room, widget de reservas de Wix Hotels enlazado desde su boton «Reserva»); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.lapiquerahostal.com/",
+  "date": "2026-10-29T11:13:06+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

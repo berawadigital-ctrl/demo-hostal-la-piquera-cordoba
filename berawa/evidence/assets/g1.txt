@@ -1,0 +1,4 @@
+Ilustracion generada por codigo (make_art.py), tipo 'arches', semilla 7121, paleta ['#f6e9d8', '#ebc590', '#b9653a', '#7a3a22', '#4a2414'].
+Sin fotografias ni logotipos: no muestra el establecimiento.
+Hash de los parametros: 2e27c22b5a1c1cc3c2c88d5f8e0c76d42de27edec164fcb84736f93a9275acf3
+Licencia: Ilustracion propia de Berawa Solutions, generada por berawa/build/make_art.py (Pillow): sin fotos, logos ni textos de terceros; uso libre para esta propuesta.
