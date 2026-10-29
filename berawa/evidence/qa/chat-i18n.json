@@ -1,0 +1,446 @@
+{
+ "url": "http://127.0.0.1:43235/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 14 habitaciones, todas con baño privado, calefacción, aire acondicionado, televisión, wifi gratis, secador, artículos de aseo y detall"
+    },
+    {
+     "q": "¿Cuántas habitaciones hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 14 habitaciones, todas con baño privado, calefacción, aire acondicionado, televisión, wifi gratis, secador, artículos de aseo y detall"
+    },
+    {
+     "q": "¿Hay suite?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: el hostal muestra una suite con terraza frente a la Mezquita-Catedral («No encontrarás otro sitio así»). Para detalles y disponibilidad,"
+    },
+    {
+     "q": "¿Dónde aparcar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "El hostal no anuncia parking propio. Al otro lado del río (zona Miraflores) hay aparcamiento gratuito, y cerca están los parkings de pago La"
+    },
+    {
+     "q": "¿Se puede llegar en coche?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La calle tiene el paso restringido. Si vienes en coche, pulsa el interfono junto al bolardo de la calle Amador de los Ríos, di que vienes al"
+    },
+    {
+     "q": "¿Dónde está el hostal?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Está en la Calle Corregidor Luis de la Cerda, 68 (14003 Córdoba), en la esquina sureste de la Mezquita-Catedral, literalmente a cinco pasos,"
+    },
+    {
+     "q": "¿Qué ver cerca?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Desde el hostal se va a pie a todo: la Mezquita-Catedral, el Puente Romano, el Alcázar de los Reyes Cristianos, la Sinagoga y los patios cor"
+    },
+    {
+     "q": "¿Qué servicios tiene?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Servicios: limpieza diaria, wifi gratuito, ascensor y acceso para personas con movilidad reducida, guardaequipaje y café y té gratis cada ta"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "El check-in es de 14:00 a 21:00 (hasta las 22:00 con aviso previo) y el check-out, hasta las 12:00. La recepción abre de 9 a 21 h; fuera de "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su página de reservas (botón Reservar), llamar al +34 744 63 45 98 o escribir a info@lapiquerahostal.com. Este asistente "
+    },
+    {
+     "q": "¿Hay descuento por reservar en la web?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí: reservando en su web aplican un descuento que se hace efectivo al pagar a la llegada. Su web en inglés indica un 7 % para estancias de d"
+    },
+    {
+     "q": "¿Ponen cuna?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí: se puede añadir una cuna o una cama extra con suplemento por noche. Se solicita por email a info@lapiquerahostal.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que el titular es La Piquera Hostal ESPJ, CIF E56134331, con número de registro H/CO/00696."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "¿Tienen gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 744 63 45 98 · info@lapiquerahostal.com."
+    }
+   ],
+   "chips": [
+    "¿Qué tienen las habitaciones?",
+    "¿Dónde aparcar?",
+    "¿A qué hora es el check-in?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "svc3",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Què tenen les habitacions?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 14 habitacions, totes amb bany privat, calefacció, aire condicionat, televisió, wifi gratis, assecador, articles de bany i detalls de ben"
+    },
+    {
+     "q": "Quantes habitacions hi ha?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 14 habitacions, totes amb bany privat, calefacció, aire condicionat, televisió, wifi gratis, assecador, articles de bany i detalls de ben"
+    },
+    {
+     "q": "Hi ha suite?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: l'hostal mostra una suite amb terrassa davant de la Mesquita-Catedral («No trobaràs cap altre lloc així»). Per a detalls i disponibilita"
+    },
+    {
+     "q": "On aparcar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "L'hostal no anuncia pàrquing propi. A l'altra banda del riu (zona Miraflores) hi ha aparcament gratuït, i a prop hi ha els pàrquings de paga"
+    },
+    {
+     "q": "S'hi pot arribar amb cotxe?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El carrer té el pas restringit. Si vens amb cotxe, prem l'interfon al costat de la pilona del carrer Amador de los Ríos, digues que vens a l"
+    },
+    {
+     "q": "On és l'hostal?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "És al carrer Corregidor Luis de la Cerda, 68 (14003 Còrdova), a la cantonada sud-est de la Mesquita-Catedral, literalment a cinc passes, en "
+    },
+    {
+     "q": "Què es pot veure a prop?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Des de l'hostal s'hi va a peu a tot: la Mesquita-Catedral, el Pont Romà, l'Alcázar de los Reyes Cristianos, la Sinagoga i els patis cordoves"
+    },
+    {
+     "q": "Quins serveis té?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Serveis: neteja diària, wifi gratuït, ascensor i accés per a persones amb mobilitat reduïda, consigna d'equipatge i cafè i te gratis cada ta"
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "El check-in és de 14:00 a 21:00 (fins a les 22:00 amb avís previ) i el check-out, fins a les 12:00. La recepció obre de 9 a 21 h; fora d'aqu"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Pots reservar a la seva pàgina de reserves (botó Reservar), trucar al +34 744 63 45 98 o escriure a info@lapiquerahostal.com. Aquest assiste"
+    },
+    {
+     "q": "Hi ha descompte per reservar al web?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí: reservant al seu web apliquen un descompte que es fa efectiu en pagar a l'arribada. El seu web en anglès indica un 7 % per a estades de "
+    },
+    {
+     "q": "Poseu bressol?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí: es pot afegir un bressol o un llit extra amb suplement per nit. Es demana per correu a info@lapiquerahostal.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que el titular és La Piquera Hostal ESPJ, CIF E56134331, amb número de registre H/CO/00696."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "Teniu gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 744 63 45 98 · info@lapiquerahostal.com."
+    }
+   ],
+   "chips": [
+    "Què tenen les habitacions?",
+    "On aparcar?",
+    "A quina hora és el check-in?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What do the rooms have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 14 rooms, all with private bathroom, heating, air conditioning, TV, free wifi, hair dryer, toiletries and a small welcome hamper."
+    },
+    {
+     "q": "How many rooms are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 14 rooms, all with private bathroom, heating, air conditioning, TV, free wifi, hair dryer, toiletries and a small welcome hamper."
+    },
+    {
+     "q": "Is there a suite?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: the hostal shows a suite with a terrace facing the Mosque-Cathedral. For details and availability, ask the hostal."
+    },
+    {
+     "q": "Where can I park?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "The hostal does not advertise its own parking. Across the river (Miraflores area) there is free parking, and nearby are the paid car parks L"
+    },
+    {
+     "q": "Can I drive to the hostal?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The street is restricted. If you come by car, give the hostal your plate number before arriving; otherwise press the interphone by the bolla"
+    },
+    {
+     "q": "Where is the hostal?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "It is at Calle Corregidor Luis de la Cerda, 68 (14003 Córdoba), on the south-east corner of the Mosque-Cathedral, literally five steps away,"
+    },
+    {
+     "q": "What is there to see nearby?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "From the hostal you can walk everywhere: the Mosque-Cathedral, the Roman Bridge, the Alcázar de los Reyes Cristianos, the Synagogue and the "
+    },
+    {
+     "q": "What services does it offer?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Services: daily cleaning, free wifi, lift and access for reduced mobility, luggage storage and free coffee and tea every evening in the pati"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Check-in is from 2 pm to 9 pm (until 10 pm with prior notice) and check-out is until 12:00. Reception is open from 9 am to 9 pm; outside tho"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on its booking page (Book button), call +34 744 63 45 98 or email info@lapiquerahostal.com. This assistant does not confirm ava"
+    },
+    {
+     "q": "Is there a discount for booking on the website?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes: booking on its website gives a discount, applied when you pay on arrival: 7% for a two-night stay and 10% for a three-night stay."
+    },
+    {
+     "q": "Can you add a cot?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes: a cot or an extra bed can be added for a nightly supplement. Request it by email at info@lapiquerahostal.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal notice states that the owner is La Piquera Hostal ESPJ, CIF E56134331, registration number H/CO/00696."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "Do you have a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 744 63 45 98 · info@lapiquerahostal.com."
+    }
+   ],
+   "chips": [
+    "What do the rooms have?",
+    "Where can I park?",
+    "What time is check-in?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Qu'ont les chambres ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 14 chambres, toutes avec salle de bain privée, chauffage, climatisation, télévision, wifi gratuit, sèche-cheveux, produits d'accue"
+    },
+    {
+     "q": "Combien de chambres y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 14 chambres, toutes avec salle de bain privée, chauffage, climatisation, télévision, wifi gratuit, sèche-cheveux, produits d'accue"
+    },
+    {
+     "q": "Y a-t-il une suite ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : l'hostal présente une suite avec terrasse face à la Mosquée-Cathédrale. Pour les détails et la disponibilité, renseignez-vous auprès d"
+    },
+    {
+     "q": "Où se garer ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "L'hostal n'annonce pas de parking propre. De l'autre côté du fleuve (quartier Miraflores), on trouve du stationnement gratuit, et à proximit"
+    },
+    {
+     "q": "Peut-on venir en voiture ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La rue est à accès restreint. Si vous venez en voiture, donnez votre plaque à l'hostal avant d'arriver ; sinon, appuyez sur l'interphone prè"
+    },
+    {
+     "q": "Où est l'hostal ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il se trouve Calle Corregidor Luis de la Cerda, 68 (14003 Cordoue), à l'angle sud-est de la Mosquée-Cathédrale, littéralement à cinq pas, da"
+    },
+    {
+     "q": "Que voir à proximité ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Depuis l'hostal, tout se fait à pied : la Mosquée-Cathédrale, le Pont romain, l'Alcázar de los Reyes Cristianos, la Synagogue et les patios "
+    },
+    {
+     "q": "Quels services propose-t-il ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Services : ménage quotidien, wifi gratuit, ascenseur et accès pour personnes à mobilité réduite, bagagerie et café et thé offerts chaque soi"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Le check-in se fait de 14:00 à 21:00 (jusqu'à 22:00 avec préavis) et le check-out jusqu'à 12:00. La réception est ouverte de 9 à 21 h ; en d"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur sa page de réservation (bouton Réserver), appeler le +34 744 63 45 98 ou écrire à info@lapiquerahostal.com. Cet ass"
+    },
+    {
+     "q": "Y a-t-il une réduction en réservant sur le site ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui : en réservant sur son site, une réduction est appliquée au paiement à l'arrivée : 7 % pour deux nuits et 10 % pour trois nuits."
+    },
+    {
+     "q": "Pouvez-vous ajouter un lit bébé ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui : un lit bébé ou un lit d'appoint peut être ajouté avec un supplément par nuit. À demander par e-mail à info@lapiquerahostal.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ses mentions légales indiquent que le titulaire est La Piquera Hostal ESPJ, CIF E56134331, numéro d'enregistrement H/CO/00696."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "Avez-vous une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 744 63 45 98 · info@lapiquerahostal.com."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 744 63 45 98 · info@lapiquerahostal.com."
+    }
+   ],
+   "chips": [
+    "Qu'ont les chambres ?",
+    "Où se garer ?",
+    "À quelle heure est le check-in ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
